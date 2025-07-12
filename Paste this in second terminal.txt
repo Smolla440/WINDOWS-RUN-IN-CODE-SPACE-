@@ -1,0 +1,9 @@
+while true; do echo "WELL IT'S RUNNING..."; sleep 300; done
+
+
+To stop the loop, press Ctrl + C.
+it will continue running the machine. though it will consume your free 
+tire in code space . 
+it's highly for educational purpose and development. 
+don't waste the resources.
+nothing Is free , if it is than respect that.
