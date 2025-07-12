@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # --- Interactive Prompt ---
 echo "-𝕎𝕀ℕ𝔻𝕆𝕎𝕊 𝟙𝟘-"
 echo "WILL START INSTALLING"
