@@ -1,6 +1,10 @@
 # WINDOWS-RUN-IN-CODE-SPACE- JUST RUN THIS 😎
 
 # IF NOT AUTOMATICALLY STARTING ▶️
+run start.sh
+or type start.sh and enter in the terminal 
+
+though it should automatically start and ask for your confirmation 🛜
 
 # Switch to root user🎲
 sudo su
